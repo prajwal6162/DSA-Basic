@@ -9,7 +9,7 @@ class Solution {
         }
         return sum;
     }
-
+//this is to check palindrome number
 public:
     bool isPalindrome(int n) {
         if(n == 0) return true;
